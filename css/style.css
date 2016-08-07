@@ -1,0 +1,10 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PP Sans Narrow", sans-serif;
+
+  color: #ffffff;
+
+  background: #111111 url("../img/body-bg.jpg") no-repeat center top;
+  background-image: url("../img/body-bg.jpg");
+}
